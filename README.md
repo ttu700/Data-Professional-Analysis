@@ -11,8 +11,9 @@
     │   └── Power_BI_Final_Project.xlsx 
     │            
     ├── dashboard_gif.gif    <- image
-      
-        
+## Dashboard
+### [Data Professional Breakdown Dashboard](https://github.com/ttu700/Data-Professional-Breakdown-Dashboard/tree/main/Dashboard)
+
 ## Description:
 
 Our "Data Professionals Insights Dashboard" project involves the meticulous cleaning and formatting of data collected from a comprehensive survey targeting 700 data professionals. This initiative is designed to provide a holistic understanding of the current trends, challenges, and preferences within the data professional community. Leveraging the power of Power BI, we have transformed this rich dataset into an interactive and visually appealing dashboard.
