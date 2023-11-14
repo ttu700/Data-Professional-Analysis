@@ -1,8 +1,23 @@
 # Data-Professional-Breakdown-Dashboard
-![image](https://raw.githubusercontent.com/ttu700/Data-Professional-Breakdown-Dashboard/main/dashboard_gif.gif)
+## Project Structure
+    ├── LICENSE
+    ├── README.md            <- README for using this project.
+    ├── Dashboard            <- Code of the DB creation and queries.
+    │   │
+    │   └── Data Professional_Survey_Breakdown.pbix    
+    │    
+    ├── Data                 <- Folder containing the final reports/results of this project.
+    │   │
+    │   └── Power_BI_Final_Project.xlsx 
+    │            
+    ├── dashboard_gif.gif    <- image
+      
+        
 ## Description:
 
 Our "Data Professionals Insights Dashboard" project involves the meticulous cleaning and formatting of data collected from a comprehensive survey targeting 700 data professionals. This initiative is designed to provide a holistic understanding of the current trends, challenges, and preferences within the data professional community. Leveraging the power of Power BI, we have transformed this rich dataset into an interactive and visually appealing dashboard.
+
+![image](https://raw.githubusercontent.com/ttu700/Data-Professional-Breakdown-Dashboard/main/dashboard_gif.gif)
 
 ## Key Components:
 
